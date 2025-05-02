@@ -1,0 +1,3 @@
+[submodule "angular-furiafan"]
+	path = angular-furiafan
+	url = https://github.com/lucasfend/angular-furiafan.git
