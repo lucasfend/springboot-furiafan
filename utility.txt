@@ -1,0 +1,2 @@
+user=postgres
+psw=X7pK2mZd8LqWb9R4sVa1Nt5YgHb3QxUCX7pK2mZd8LqWb9R4sVa1Nt5YgHb3QxUC
