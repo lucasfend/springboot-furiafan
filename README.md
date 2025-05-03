@@ -17,7 +17,7 @@
 
 ---
 
-## 🔧 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Backend - Java Spring Boot
 
