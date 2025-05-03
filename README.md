@@ -1,4 +1,3 @@
-=======
 # REDE SOCIAL DA FURIA, O FURIAFAN
 
 **FuriaFan** é uma plataforma interativa feita para fãs da equipe de e-sports **FURIA**, com foco inicial no cenário de **Counter-Strike**. A aplicação permite que o usuário acompanhe conteúdos autênticos da equipe via redes sociais, com acesso personalizado e seguro por meio de cadastro tradicional ou autenticação via Twitter.
