@@ -94,7 +94,7 @@
 
 ---
 
-## 📄 Validações e Regras de Negócio
+## Validações e Regras de Negócio
 
 ### Regras de Cadastro
 
