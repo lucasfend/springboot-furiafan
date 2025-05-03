@@ -28,6 +28,7 @@
 - **OAuth 2.0** – autenticação com Twitter.
 - **API XV2 do Twitter** – obtenção de tweets e imagens públicas.
 - **PostgreSQL** – banco de dados relacional.
+- **Firebase** – banco de dados não relacional.
 
 ### Frontend - Angular
 
@@ -69,11 +70,11 @@
 
 ---
 
-## Timeline de Tweets
+## Timeline do FuriaFan
 
 ### O que é?
 
-- Interface que exibe **tweets públicos da equipe FURIA** relacionados ao jogo selecionado durante o cadastro (ex: **Counter-Strike**).
+- Interface que exibe **posts públicos da equipe FURIA** relacionados ao jogo selecionado durante o cadastro (ex: **Counter-Strike**).
 
 ### Como funciona?
 
