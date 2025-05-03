@@ -119,6 +119,6 @@ Caso tenha dúvidas ou sugestões, entre em contato:
 
 - **Developer:** [Lucas Fend Ribeiro]
 - **E-mail:** [lucasribeiro.developer@outlook.com]
-- **LinkedIn:** [https://www.linkedin.com/in/lucasribfend/](#https://www.linkedin.com/in/lucasribfend/)
+- **LinkedIn:** [https://www.linkedin.com/in/lucasribfend/](https://www.linkedin.com/in/lucasribfend/)
 
 ---
